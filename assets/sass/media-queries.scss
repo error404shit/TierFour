@@ -1,0 +1,140 @@
+
+@media (min-width: 1200px){
+	.container {
+	    max-width: 1300px!important;
+	}
+	.navbar{
+		padding: 0!important;
+	}
+}
+
+@media only screen and ( max-width: 1024px ) {
+	.navbar{
+		padding-left: 0!important;
+		padding-left: 0!important;
+	}
+	.sub-featured-img{
+		height: auto!important;
+	}
+	.featured-img{
+		height: auto!important;
+	}
+	.recent-post-img{
+		height: auto!important;
+	}
+	.secondary-featured-img{
+		height: auto!important;
+	}
+	.sub-recent-img{
+		height: auto!important;
+	}
+	.recent-post-2-img{
+		height: auto!important;
+	}
+	.sub-recent-2-img{
+		height: auto!important;
+	}
+	.category-post-1-img{
+		height: auto!important;
+	}
+	.category-post-2-img{
+		height: auto!important;
+	}
+	.sub-recent-header{
+		margin-top: 5px;
+		padding-left: 14px;
+	}
+	.sub-recent-post-content{
+		padding-left: 14px;
+	}
+	.related-img{
+		height: auto!important;
+	}
+}
+
+
+@media only screen and ( max-width: 900px ) {
+	.sub-featured-img{
+		height: auto!important;
+	}
+	.sub-featured-header{
+		height: 100%!important;
+	}
+	.featured-img{
+		height: auto!important;
+	}
+	.featured-header{
+		height: 100%!important;
+	}
+	.featured-top a{
+		font-size: 1.5rem!important;
+	}
+	.recent-post-img{
+		height: auto!important;
+	}
+	.secondary-featured-img{
+		height: auto!important;
+	}
+	.sub-recent-img{
+		height: auto!important;
+	}
+	.recent-post-2-img{
+		height: auto!important;
+	}
+	.sub-recent-2-img{
+		height: auto!important;
+	}
+	.category-post-1-img{
+		height: auto!important;
+	}
+	.category-post-2-img{
+		height: auto!important;
+	}
+	.sub-recent-header{
+		margin-top: 5px;
+		padding-left: 14px;
+	}
+	.sub-recent-post-content{
+		padding-left: 14px;
+	}
+	.related-img{
+		height: auto!important;
+	}
+	.page-contianer{
+
+		.prev-left{
+			img{
+				display: none;
+			}
+			.post-nav-title-prev{
+			    margin-top: -20px;
+			    margin-left: 0!important;
+			}
+		}
+
+		.next-right{
+			img{
+				display: none;
+			}
+			.post-nav-title-next{
+			    margin-top: -20px;
+			    margin-right: 0!important;
+			}
+		}
+	}
+	.related-2-img{
+		height: auto!important;
+	}
+	.slick-prev, .slick-next{
+		display: none!important;
+	}
+	.single-header{
+		height: 100%!important;
+	}
+	.feat-desc{
+		display: none;
+	}
+	h1{
+		font-size: 1.5rem!important;
+	}
+}
